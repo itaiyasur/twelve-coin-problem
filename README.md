@@ -1,7 +1,7 @@
 # Twelve Coin Problem 
 
 ## Problem 
-Given 12 coins, one of wich is counterfeit and either heavier or lighter than the other equal-weighing coins, find the counterfeit coin and its weight in a maximum of three balance weighings. 
+Given 12 coins, one of which is counterfeit and either heavier or lighter than the other equal-weighing coins, find the counterfeit coin and its weight in a maximum of three balance weighings. 
 
 ## Solution 
 This solution involves splitting the coins into groups, initially: A1, A2, A3, A4; B1, B2, B3, B4; C1, C2, C3, C4. 
